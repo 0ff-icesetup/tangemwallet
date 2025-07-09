@@ -1,1 +1,1 @@
-# IJ Start Canon TS3522 Printer Setup Guide
+# Tangem Wallet Support Guide
