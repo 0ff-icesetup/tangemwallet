@@ -10,7 +10,7 @@ Looking for a secure and portable way to manage your cryptocurrency? **Tangem Wa
 .. image:: 0005_a64aa9e2b7.png
       :width: 1280px
       :align: center
-      :height: 700px
+      :height: 500px
       :alt: Tangem Wallet
       :target: #
 
