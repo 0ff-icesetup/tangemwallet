@@ -1,5 +1,5 @@
 ##################
-Download & Setup IJ.Start.Canon TS3522 Printer Driver - Guide
+Tangem Wallet Support Guide: Contact, Setup, and Security Overview (2025)
 ##################
 
 .. meta::
@@ -22,136 +22,103 @@ Download & Setup IJ.Start.Canon TS3522 Printer Driver - Guide
       :align: center
       :height: 100px
 
-**********
-https://ij.start.canon TS3522
-**********
-Canon IJ printers are among the most popular printers worldwide. While many printers are available, Canon IJ stands out for its quality and versatility. Canon offers various models, including printer, scanner, and fax functionalities — making them all-in-one solutions.
 
-In this guide, we will focus on the Canon IJ Pixma TS3522 model. You'll learn about its features, how to set it up, and how to connect it with your devices.
+Looking for a secure and portable way to manage your cryptocurrency? **Tangem Wallet** offers a unique hardware-based solution that combines physical card convenience with top-grade blockchain security. Whether you're setting up your wallet for the first time or need help from the **Tangem Wallet support team**, this guide walks you through everything you need to know.
 
-**********
-What are the features and specifications of ij.start.canon ts3522?
-**********
-The Canon TS3522 is an all-in-one, wireless printer. Here are its key features:
+What is Tangem Wallet?
+----------------------
 
-- Built-in wireless connection.
-- Print from anywhere in your home or office.
-- Paper tray with a unique design for easy printing.
-- Borderless photo printing with sizes like 5x7 and 5x5 inches.
-- Hybrid ink system for sharp black prints.
-- Compact and easy to fit anywhere.
-- Wi-Fi connectivity without needing extra devices.
-- Settings can be managed on the printer’s LCD screen.
+**Tangem Wallet** is a hardware wallet in the form of a credit card-sized NFC-enabled smart card. Unlike typical USB-based hardware wallets like Ledger or Trezor, Tangem uses **contactless technology** to manage and protect your crypto assets on the go.
 
-**********
-How to set up the ij.start.canon ts3522?
-**********
+It’s designed to be:
 
-Follow these steps:
+✅ **Secure** – Offline key generation with military-grade chip  
+✅ **Portable** – No cables or screens, just tap with your phone  
+✅ **Durable** – Waterproof, tamper-resistant, no battery needed  
+✅ **Multi-asset Compatible** – Supports Bitcoin, Ethereum, USDT, XRP, BNB, Polygon & more  
+✅ **Non-custodial** – You control your keys, no third-party access  
 
-1. Unbox the printer and remove the orange safety tape.
-2. Place the printer in a safe, flat area.
-3. Plug in the power cable.
-4. Turn the printer on using the power button.
-5. Install the included cartridges.
-6. Load A4-size paper into the tray.
+Tangem provides a truly minimalist, yet powerful cold wallet experience.
 
-**********
-How to connect ij.start.canon ts3522 with PC or Smartphone?
-**********
+How Does Tangem Wallet Work?
+----------------------------
 
-To connect with a **computer**:
+1. **Download the Tangem App** – Available for iOS and Android  
+2. **Activate Your Card** – Tap the card on your phone to begin setup  
+3. **Generate Wallet** – Keys are created securely inside the chip and never leave it  
+4. **Backup Option** – Add 2 or more backup cards for secure multi-card access  
+5. **Manage Assets** – Send, receive, and store crypto from the Tangem app  
 
-1. Download the setup from `ij.start.canon <https://ij.start.canon>`_.
-2. Enter your model number (TS3522) and click download.
-3. Install the software and open it.
-4. Click "Start Setup".
-5. Connect the printer and PC to the same Wi-Fi.
-6. The software will detect your printer.
-7. Select the printer name, enter your Wi-Fi credentials, and connect.
+There are no usernames, passwords, or seed phrases to remember. The wallet works entirely through physical tap verification.
 
-To connect with a **smartphone**:
+How to Contact Tangem Wallet Support
+------------------------------------
 
-1. Download the Canon Print app from the Play Store or App Store.
-2. Open the app and search for nearby printers.
-3. Select the printer and connect via Wi-Fi.
-4. Start printing from your phone.
+If you're facing setup issues, tap detection errors, or questions about safety, contact the official **Tangem Wallet support team**:
 
-**********
-How to download ij.start.canon ts3522 software on laptop/computer?
-**********
+📧 **Support Email**:  
+support@tangem.com
 
-1. Open your browser on your laptop/computer.
-2. Visit `ij.start.canon <https://ij.start.canon>`_.
-3. Click **Start** → **Setting up a new printer**.
-4. If already installed, choose **Connecting to a computer or smartphone**.
-5. Follow on-screen instructions.
-6. Click the download button and install the software.
+🌐 **Submit a Ticket**:  
+👉 https://tangem.com/support/
 
-**********
-How to install ij.start.canon ts3522 software?
-**********
+📚 **Help Center / FAQs**:  
+👉 https://help.tangem.com/
 
-1. Double-click the downloaded setup file.
-2. Click **Yes** when prompted.
-3. Setup will begin automatically.
-4. Once installed, click **Start Setup**.
-5. Complete the connection to your printer.
+🔗 **Community & Forums**:  
+Tangem is also active on Reddit and Discord for peer-to-peer help.
 
-**********
-How to connect ij.start.canon ts3522 wirelessly with a computer?
-**********
+🚫 **Phone Support Notice**:  
+As of now, **Tangem does not offer a phone or toll-free support number**. Be cautious of any numbers listed online — these are not official.
 
-1. Open the Canon software and click **Start Setup**.
-2. Turn on your printer.
-3. Click **Next** → wait while drivers are installed.
-4. Click **Yes** to accept the license agreement.
-5. Choose **Wi-Fi Connection** → **Next**.
-6. The printer will be detected.
-7. Select your printer and complete the connection.
+Common Tangem Wallet Support Topics
+-----------------------------------
 
-**********
-How to download and install ij.start.canon ts3522 on Apple devices?
-**********
+Here are examples of issues you can resolve with Tangem’s support:
 
-1. Open the App Store.
-2. Search for **IJ Start Canon Printer** or `ij.start.canon <https://ij.start.canon>`_.
-3. Download and install the app.
-4. Open the app and connect to the printer using Wi-Fi.
+- 📲 **App not detecting card** – Tap position, NFC settings, or device compatibility  
+- 🔐 **Lost one card in multi-backup setup** – Replace or reassign another backup  
+- 💸 **Transaction not broadcasting** – Network congestion or app syncing issues  
+- 🧠 **Understanding multi-wallet access** – How multiple cards can share access to the same funds  
+- 🛡️ **Security concerns** – Questions about card chip safety, firmware, or backup structure
 
-**********
-How to install ij.start.canon ts3522 app on Smartphone?
-**********
+Why Choose Tangem Wallet?
+-------------------------
 
-1. Open Google Play Store.
-2. Search for **Canon Print**.
-3. Click **Install**.
-4. Launch the app and connect to your printer via Wi-Fi.
+Tangem offers a different approach to cold storage:
 
-**********
-How to connect ij.start.canon ts3522 wirelessly with Smartphone?
-**********
+- No Bluetooth, USB, or charging needed  
+- Physically tamper-proof — if destroyed, access is lost  
+- No server reliance or cloud syncing  
+- Great for **long-term holders**, **travelers**, or **gifting crypto** securely  
+- Cards work **forever** — no battery to die, no firmware updates required
 
-1. Open the Canon app and tap **Start Setup**.
-2. Turn on the printer.
-3. Allow installation of drivers.
-4. Agree to the license terms.
-5. Choose **Wi-Fi Connection**.
-6. Select your printer and connect.
-**********
-FAQs
-**********
+Security & Safety Tips
+-----------------------
 
-**Can I use photo paper to print from a Canon ij ts3522 printer?**
-**Yes.** Use 4x6 inch or 13x18 cm size photo paper.
+🧠 **Always activate multiple backup cards** during setup  
+🚫 **Never share or lend your Tangem card**  
+📴 **Store cards in a secure, offline place**  
+🔍 **Only download the official Tangem app** from trusted sources  
+⚠️ **Avoid fake support numbers** – Use only the official email or support page
 
-**How do I get printouts from the Canon ij printer Pixma ts3522?**
-1. Download the software.
-2. Insert A4 paper into the tray.
-3. Use the software/app to give the print command.
+Conclusion: Is Tangem Wallet Right for You?
+-------------------------------------------
 
-** How does scanning work on the ij Canon ts3522 printer?**
-It’s wireless. Place the document on the scanner, give the command from the app or PC, and scanning will start.
+If you’re looking for a **simple, mobile-friendly, and ultra-secure** way to store your cryptocurrency, **Tangem Wallet** is an excellent solution. With **no seed phrase**, no USB ports, and no app logins, it redefines what a cold wallet can be.
 
-** Can I download the Canon ij printer ts3522 software on my computer?**
-**Yes.** Visit `ij.start.canon <https://ij.start.canon>`_ and follow the steps to download and install it.
+For questions or issues, the **Tangem Wallet support team** is responsive via email and support tickets. Just remember: **never call or trust unofficial phone numbers claiming to be Tangem support** — always use verified links.
+
+Tangem Wallet Keywords Used
+----------------------------
+
+- Tangem Wallet support  
+- Contact Tangem Wallet help  
+- Tangem Wallet customer service  
+- Tangem Wallet setup guide  
+- Tangem Wallet backup card issue  
+- Tangem NFC wallet not working  
+- Tangem Wallet secure hardware card  
+- How to use Tangem Wallet  
+- Tangem cold wallet troubleshooting  
+
