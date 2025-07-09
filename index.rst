@@ -5,25 +5,12 @@ Tangem Wallet Guide: Contact, Setup, and Security Overview
 .. meta::
    :msvalidate.01: ECDBE84ED19B1192A41890640F378D79
 
-.. image:: blank.png
-      :width: 350px
-      :align: center
-      :height: 100px
-
-
-
-.. image:: blank.png
-      :width: 350px
-      :align: center
-      :height: 100px
-
-
 Looking for a secure and portable way to manage your cryptocurrency? **Tangem Wallet** offers a unique hardware-based solution that combines physical card convenience with top-grade blockchain security. Whether you're setting up your wallet for the first time or need help from the **Tangem Wallet support team**, this guide walks you through everything you need to know.
 
 .. image:: 0005_a64aa9e2b7.png
-      :width: 350px
+      :width: 1280px
       :align: center
-      :height: 100px
+      :height: 700px
       :alt: Tangem Wallet
       :target: #
 
