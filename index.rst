@@ -5,6 +5,8 @@ Tangem Wallet Guide: Contact, Setup, and Security Overview
 .. meta::
    :msvalidate.01: ECDBE84ED19B1192A41890640F378D79
 
+You can reach Tangem Wallet customer support by dialing +1 (870) 406-6577, a toll-free number, or by emailing them at support@tangem.com. If you have questions regarding your wallet setup, backup cards, security, or the Terms of Service, you can also submit a request through their official support page for prompt assistance.
+
 Looking for a secure and portable way to manage your cryptocurrency? **Tangem Wallet** offers a unique hardware-based solution that combines physical card convenience with top-grade blockchain security. Whether you're setting up your wallet for the first time or need help from the **Tangem Wallet support team**, this guide walks you through everything you need to know.
 
 .. image:: 0005_a64aa9e2b7.png
